@@ -1,0 +1,7 @@
+PyMuPDF
+python-docx
+openai
+langchain
+langchain-openai
+git+https://github.com/joaomdmoura/crewai.git
+crewai-tools
